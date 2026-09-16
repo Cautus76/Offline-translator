@@ -1,0 +1,10 @@
+{
+  "name": "Diktování – Němčina",
+  "description": "Minimalistická diktovací aplikace pro rozpoznávání německé řeči pomocí SpeechRecognizer.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
